@@ -38,5 +38,4 @@ public class OfferII21 {
             this.next = next;
         }
     }
-    111
 }
